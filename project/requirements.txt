@@ -1,5 +1,9 @@
 fastapi==0.109.0
 pydantic-settings==2.1.0
+<<<<<<< HEAD
 uvicorn==0.26.0
 asyncpg==0.29.0
 tortoise-orm==0.20.0
+=======
+uvicorn==0.26.0
+>>>>>>> 16e83fc342c710ba04d8ba3d5dbd5773072eea98
